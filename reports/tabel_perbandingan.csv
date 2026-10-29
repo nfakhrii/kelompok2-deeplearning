@@ -1,0 +1,4 @@
+Model,Accuracy (%),Precision Clickbait (%),Recall Clickbait (%),F1 Clickbait (%),F1 Macro (%)
+Logistic Regression,88.3721,94.2639,74.359,83.1366,87.1317
+Naive Bayes,85.814,89.013,72.0965,79.6667,84.3869
+MLP,89.1279,86.8421,84.6154,85.7143,88.4695
